@@ -17,3 +17,5 @@ int main() {
   for(int i =0; i<n; i++) {
       printf("%s\n", names[i]);
   }
+  return 0;
+}
